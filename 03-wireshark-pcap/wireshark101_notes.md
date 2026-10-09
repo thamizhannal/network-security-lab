@@ -1,4 +1,4 @@
-```markdown
+
 # Wireshark 101: Masterclass
 ## Introduction to Network Packet Analysis and Packet Filtering[cite: 2]
 
@@ -166,4 +166,3 @@
 6. Apply IP filter: `ip.src == 192.168.181.128`.[cite: 2]
 7. Right-click the HTTP session and select **Follow** → **HTTP Stream** to analyze the complete request and response payload.[cite: 2]
 
-```
